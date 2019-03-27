@@ -4,6 +4,6 @@
 
 <script>
 export default {
-  name: 'BlogFooter'
+  name: "BlogFooter"
 };
 </script>
